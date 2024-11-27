@@ -6,7 +6,7 @@ import Offer from './component/Offer';
 import Vision from './component/Vision';
 import DebitCard from './component/DebitCard';
 import PerfectCard from './component/PerfectCard';
-import Review from './component/review';
+import Review from './component/Review';
 import FAQs from './component/FAQs';
 import Footer from './component/Footer';
 
