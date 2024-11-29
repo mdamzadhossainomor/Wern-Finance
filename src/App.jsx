@@ -10,6 +10,7 @@ import Review from './component/Review';
 import FAQs from './component/FAQs';
 import Footer from './component/Footer';
 
+
 function App() {
   
 
@@ -24,6 +25,7 @@ function App() {
       <Review />
       <FAQs />
       <Footer />
+     
       
     </>
   );

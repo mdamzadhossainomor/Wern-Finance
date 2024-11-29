@@ -34,13 +34,13 @@ function Review() {
   return (
     <>
       <section className="w-[100%] mt-8">
-        <div className=" mx-auto grid grid-cols-3 w-[90%] gap-5">
+        <div className=" mx-auto grid grid-cols-3 w-[90%] gap-6">
           {reviewData.map((item, i) => (
             <div
               key={i}
-              className=" col-span-3 sm:col-span-3 md:col-span-1 w-[100%] mx-auto  bg-[#27322f70] p-6 rounded-3xl "
+              className=" col-span-3 sm:col-span-3 md:col-span-1 w-[100%] mx-auto  bg-[#27322f70] p-6 rounded-3xl hover:scale-105 ease-in-out duration-250 "
             >
-              <div className="space-y-8">
+              <div className="space-y-8 ">
                 <div>
                   <img src={item.quteImg} alt="" />
                 </div>

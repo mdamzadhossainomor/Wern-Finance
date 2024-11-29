@@ -21,7 +21,7 @@ function DebitCard() {
             <Button color="primary" variant="solid" radius="full">
               Create New Card <img src="arow.svg" alt="" className="w-5" />
             </Button>
-            <p>Will be available soon</p>
+            <p className='text-[#772AB3] text-sm ps-3 pt-1.5' > Will be available soon</p>
           </span>
         </div>
         <div className="max-w-[695px] max-h-[545px]">

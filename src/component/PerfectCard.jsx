@@ -41,7 +41,7 @@ function PerfectCard() {
                 radius="full"
                 className="flex items-center space-x-2"
               >
-                Learn More <img src="arow.svg" alt="Arrow" className="w-5" />
+                Learn More 
               </Button>
             </div>
           </div>
