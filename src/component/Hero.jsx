@@ -14,7 +14,7 @@ function Hero() {
               seamlessly convert and spend their crypto for everyday purchases.
             </p>
           </div>
-
+          
           <span>
             <Button color="primary" variant="solid" radius="full">
               Get Started <img src="arow.svg" alt="" className="w-5" />
